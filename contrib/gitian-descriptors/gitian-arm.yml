@@ -1,5 +1,5 @@
 ---
-name: "pura-arm-1.0.0"
+name: "pura-arm-1.0.1"
 enable_cache: true
 suites:
 - "trusty"
