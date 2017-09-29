@@ -22,7 +22,7 @@ static const int PRIVATEPAY_QUEUE_TIMEOUT          = 30;
 static const int PRIVATEPAY_SIGNING_TIMEOUT        = 15;
 
 //! minimum peer version accepted by mixing pool
-static const int MIN_PRIVATEPAY_PEER_PROTO_VERSION = 70206;
+static const int MIN_PRIVATEPAY_PEER_PROTO_VERSION = 70208;
 
 static const CAmount PRIVATEPAY_ENTRY_MAX_SIZE     = 9;
 
