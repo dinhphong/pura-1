@@ -1,4 +1,4 @@
-Pura Core staging tree 1.0.0
+Pura Core staging tree 1.0.1
 ===============================
 
 https://pura.one
